@@ -1,0 +1,1 @@
+Exemplo Git mudança para commit inicial.
